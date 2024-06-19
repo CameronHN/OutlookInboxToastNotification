@@ -1,0 +1,50 @@
+# Ignore .local and .screenshots directories
+.local/*
+.screenshots/
+
+# Ignore project temporary and output directories
+.project/
+.output/
+.metadata/
+
+# Ignore log files
+*.log
+
+# Ignore auto-generated files and folders
+.settings/
+temp/
+TestResults/
+
+# Ignore package directories
+packages/
+
+# Ignore UiPath specific files and folders
+UiPath/
+.nuget/
+
+# Ignore any published project output
+Publish/
+
+# Ignore user-specific and temporary files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.old
+
+# Ignore compiled binary files
+bin/
+obj/
+
+# Ignore specific UiPath project settings files
+.project.json.user
+
+# Ignore configuration files
+config/
+
+# Ignore temp files
+~$*
+~Main.xaml
+
+# Ignore Visual Studio Code settings
+.vscode/
