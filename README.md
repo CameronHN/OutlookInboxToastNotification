@@ -12,3 +12,4 @@ This process makes use of a PowerShell script with the BurntToast module. The fo
 
 - BurntToast needs to be installed. https://github.com/Windos/BurntToast?tab=readme-ov-file#install
 - Execution Policy needs to be set in PowerShell to unrestricted. https://forum.uipath.com/t/invoke-powershell-scripts-diabled-execution-policy/495929/4
+- Run in PowerShell: Set-ExecutionPolicy Unrestricted -Scope Process
