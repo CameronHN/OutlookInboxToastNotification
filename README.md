@@ -2,6 +2,11 @@
 
 UiPath process that displays a toast notification in Windows when the email account has received an Outlook email.
 
+# Project Status
+
+Unfinsished
+Issue: Infinite toast loop when receiving an email
+
 ## Use case:
 
 - The user wants to receive email inbox notifications without having to check the application or have the application open in the background.
